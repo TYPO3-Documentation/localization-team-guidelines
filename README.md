@@ -1,1 +1,0 @@
-# localization-team-guidelines

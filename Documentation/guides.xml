@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- See  https://docs.typo3.org/permalink/h2document:guides-xml for documentation on this file-->
+<guides
+    xmlns="https://www.phpdoc.org/guides"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://www.phpdoc.org/guides vendor/phpdocumentor/guides-cli/resources/schema/guides.xsd"
+    input-format="rst"
+    >
+    <project
+        title="TYPO3 Localization Team Guidelines"
+        copyright="The contributors"
+    />
+    <extension
+        class="\T3Docs\Typo3DocsTheme\DependencyInjection\Typo3DocsThemeExtension"
+        edit-on-github="typo3/localization-team-guidelines"
+        edit-on-github-branch="main"
+        interlink-shortcode="typo3/localization-team-guidelines"
+        project-home="https://github.com/TYPO3-Documentation/localization-team-guidelines"
+        project-issues="https://github.com/typo3/localization-team-guidelines/issues"
+        project-repository="https://github.com/typo3/localization-team-guidelines"
+        typo3-core-preferred="stable"
+    />
+</guides>

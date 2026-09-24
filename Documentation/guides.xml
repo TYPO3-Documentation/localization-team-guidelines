@@ -14,6 +14,7 @@
         class="\T3Docs\Typo3DocsTheme\DependencyInjection\Typo3DocsThemeExtension"
         edit-on-github="TYPO3-Documentation/localization-team-guidelines"
         edit-on-github-branch="main"
+        check-link-text="true"
         interlink-shortcode="typo3/localization-team-guidelines"
         project-home="https://github.com/TYPO3-Documentation/localization-team-guidelines"
         project-issues="https://github.com/TYPO3-Documentation/localization-team-guidelines/issues"

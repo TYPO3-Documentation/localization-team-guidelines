@@ -20,5 +20,6 @@
         project-issues="https://github.com/TYPO3-Documentation/localization-team-guidelines/issues"
         project-repository="https://github.com/TYPO3-Documentation/localization-team-guidelines"
         typo3-core-preferred="stable"
+        check-headline-anchors="true"
     />
 </guides>
